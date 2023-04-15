@@ -7,15 +7,14 @@ Me chamo Patrick Suzuki, abaixo vou deixar algumas coisas sobre mim:
 - Ler 
 - Audiobooks
 - Estudar sobre psicologia
+- Pesquisar sobre tecnologia
 
 ## Atualmente estudando
 
-- Git e Github
-- React
-- Javascript e Typescript
+-  SwiftUI
 
 ## Contatos
 
 - Instagram @patoh_dev
-Linkedin Patrick S.
+- Linkedin Patrick S.
 - Email patricksuzuki.dev@gmail.com 
