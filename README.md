@@ -11,7 +11,7 @@ Me chamo Patrick Suzuki, abaixo vou deixar algumas coisas sobre mim:
 
 ## Atualmente estudando
 
--  SwiftUI
+-  Swift e SwiftUI
 -  Desenvolvimento WEB com HTML,CSS e JAVASCRIP
 -  TypeScript
 -  ReactJS
